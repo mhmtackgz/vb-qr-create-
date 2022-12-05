@@ -1,6 +1,6 @@
 
-Kullanılan Programlama Dili: Visual Basic
-Kullanılan DLL Dosyaları : BarcodeLib.dll , Datamatrix.net.dll ThoughtWorks.QRCode.dll
+Kullanılan Programlama Dili: Visual Basic <br>
+Kullanılan DLL Dosyaları : BarcodeLib.dll , Datamatrix.net.dll ThoughtWorks.QRCode.dll<br>
 <h2>PROJE İÇERİĞİ</h2>
 <ul>
 <li>Personel Ad Soyad kısmında sadece harf içeriği girebilecek şekilde filtreleme yapılmıştır.</li>
