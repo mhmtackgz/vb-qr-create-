@@ -1,0 +1,15 @@
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\bin\Debug\MA-Soru2.exe.config
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\bin\Debug\MA-Soru2.exe
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\bin\Debug\MA-Soru2.pdb
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\bin\Debug\MA-Soru2.xml
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\bin\Debug\BarcodeLib.dll
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\bin\Debug\DataMatrix.net.dll
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\obj\Debug\MA-Soru2.vbprojAssemblyReference.cache
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\obj\Debug\MA_Soru2.Form1.resources
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\obj\Debug\MA_Soru2.Resources.resources
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\obj\Debug\MA-Soru2.vbproj.GenerateResource.cache
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\obj\Debug\MA-Soru2.vbproj.CopyComplete
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\obj\Debug\MA-Soru2.exe
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\obj\Debug\MA-Soru2.xml
+C:\Users\Pc\Desktop\MA-182150038\MA-Soru2\MA-Soru2\obj\Debug\MA-Soru2.pdb
